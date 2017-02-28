@@ -1,0 +1,49 @@
+					Open-source software
+
+For a broader coverage related to this topic, see Open-source movement.
+A screenshot of Linux Mint running the Xfce desktop environment, Mozilla Firefox browsing Wikipedia, a calculator program, the built in calendar, Vim, GIMP, and the VLC media player, all of which are open-source software.
+
+Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration.
+
+The open-source software development, or collaborative development from multiple independent sources, generates an increasingly more diverse scope of design perspective than any one company is capable of developing and sustaining long term. A 2008 report by the Standish Group states that adoption of open-source software models has resulted in savings of about $60 billion (£48 billion) per year to consumers.
+
+					Open-source software licensing
+
+When an author contributes code to an open-source project (e.g., Apache.org) they do so under an explicit license (e.g., the Apache Contributor License Agreement) or an implicit license (e.g. the open-source license under which the project is already licensing code). Some open-source projects do not take contributed code under a license, but actually require joint assignment of the author's copyright in order to accept code contributions into the project.
+
+Examples of free software license / open-source licenses include Apache License, BSD license, GNU General Public License, GNU Lesser General Public License, MIT License, Eclipse Public License and Mozilla Public License.
+
+An important legal milestone for the open source / free software movement was passed in 2008, when the US federal appeals court ruled that free software licenses definitely do set legally binding conditions on the use of copyrighted work, and they are therefore enforceable under existing copyright law. As a result, if end-users violate the licensing conditions, their license disappears, meaning they are infringing copyright. Despite this licensing risk, most commercial software vendors are using open source software in commercial products while fulfilling the license terms, e.g. leveraging the Apache license
+
+						java	
+					
+Sun Microsystems' chief Scott McNealy will tell you at the drop of a hat that "Java is probably a bigger brand name than Sun itself." And, of course, he is right. When Time magazine called Java one of the Ten Best Products of 1995 (the only computer-related entry on the list), a new American marketing legend was born. Who's to say whether Sun's prized technology would have fared so well if its name had remained "Oak" or "Greentalk"?
+
+We all know the story: Give away an elegant, open programming environment and the world will beat a path to your door. No sweat, no matter what you decide to call it. The people charged with establishing a brand identity for Sun's lingua franca for next-generation application developers, though, decided upon a coffee metaphor for their trademark. Oak, the previous name, was taken. Why they did so, by their own accounts, is still something of a mystery.
+
+
+
+						JScript
+
+The original JScript is an Active Scripting engine. Like other Active Scripting languages, it is built on the COM/OLE Automation platform and provides scripting capabilities to host applications.
+
+This is the version used when hosting JScript inside a Web page displayed by Internet Explorer, in an HTML application, in classic ASP, in Windows Script Host scripts and several other Automation environments.
+
+JScript is sometimes referred to as "classic JScript" or "Active Scripting JScript" to differentiate it from newer .NET-based versions.
+
+Some versions of JScript are available for multiple versions of Internet Explorer and Windows. For example, JScript 5.7 was introduced with Internet Explorer 7.0 and is also installed for Internet Explorer 6.0 with Windows XP Service Pack 3, while JScript 5.8 was introduced with Internet Explorer 8.0 and is also installed with Internet Explorer 6.0 on Windows Mobile 6.5.
+
+Microsoft's implementation of ECMAScript 5th Edition in Windows 8 Consumer Preview is called JavaScript and the corresponding Visual Studio 11 Express Beta includes a “completely new”, full-featured JavaScript editor with IntelliSense enhancements for HTML5 and ECMAScript 5 syntax, “VSDOC” annotations for multiple overloads, simplified DOM configuration, brace matching, collapsible outlining and “go to definition.
+
+
+					AngularJS
+
+AngularJS (commonly referred to as "Angular" or "Angular.js") is a complete JavaScript-based open-source front-end web application framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. The JavaScript components complement Apache Cordova, the framework used for developing cross-platform mobile apps. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.
+
+The AngularJS framework works by first reading the HTML page, which has embedded into it additional custom tag attributes. Angular interprets those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables. The values of those JavaScript variables can be manually set within the code, or retrieved from static or dynamic JSON resources.
+
+According to JavaScript analytics service Libscore, AngularJS is used on the websites of Wolfram Alpha, NBC, Walgreens, Intel, Sprint, ABC News, and approximately 12,000 other sites out of 1 million tested in October 2016.[3] Angular is the 6th most starred project of all time on GitHub.[4]
+
+AngularJS is the frontend part of the MEAN stack, consisting of MongoDB database, Express.js web application server framework, Angular.js itself, and Node.js server runtime environment.
+
+
